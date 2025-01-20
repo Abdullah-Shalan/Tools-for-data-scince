@@ -1,1 +1,1 @@
-This project is a part of IBM's course titled Tools for data scince, and serves as a hands on experience with jupyter notebooks.
+This project is a part of IBM's course titled *Tools for data science*, and it serves as a hands-on experience with Jupyter Notebooks. 
